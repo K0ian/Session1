@@ -1,0 +1,21 @@
+# Interesting facts about the world
+- Earth isn’t a perfect sphere – It’s slightly flattened at the poles and bulges at the equator due to its rotation.
+- More than 80% of the ocean is unexplored – We know more about the surface of the Moon than the deep sea.
+- The Sahara Desert was once a lush rainforest – Around 6,000 years ago, it was home to lakes and vegetation.
+- Bananas are berries, but strawberries aren’t – Botanically, berries come from a single ovary and have seeds inside.
+- A day on Venus is longer than a year on Venus – It takes 243 Earth days to rotate once but only 225 days to orbit the Sun.
+- Antarctica is the driest, windiest, and coldest place on Earth – Some areas haven’t seen rain for nearly 2 million years.
+- There are more trees on Earth than stars in the Milky Way – About 3 trillion trees vs. 100–400 billion stars.
+- An octopus has three hearts and blue blood – Two hearts pump blood to the gills, and one pumps it to the rest of the body.
+- Water can boil and freeze at the same time – This happens at a specific pressure point known as the triple point.
+- Mount Everest can fit inside the Mariana Trench – The trench is deeper (~11,000 meters) than Everest is tall (~8,800 meters).
+- Lightning is five times hotter than the surface of the Sun – It can reach temperatures of about 30,000°C (54,000°F).
+- Sound travels faster in water than in air – About 4.3 times faster due to water’s higher density.
+- There’s an island within a lake, on an island, in a lake, on an island – This is found in the Philippines on Vulcan Point.
+- The Eiffel Tower grows taller in summer – Due to heat expansion, it can be 15 cm (6 inches) taller.
+- Your body has more bacterial cells than human cells – But they are much smaller, so you don’t notice them.
+- It takes 8 minutes for sunlight to reach Earth – But photons from the Sun’s core can take thousands of years to reach its surface.
+- The Earth’s core is as hot as the surface of the Sun – About 5,500°C (9,932°F).
+- The shortest war in history lasted 38 to 45 minutes – The Anglo-Zanzibar War in 1896.
+- Kangaroos can’t walk backward – Their tail and body structure prevent them from moving in reverse.
+- There are more ways to shuffle a deck of cards than atoms in the Earth – 52! (52 factorial) is an incredibly large number.
